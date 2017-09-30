@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_0d8fdaf479212447e53e162137daa0c87c9597cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_cdd09e1ae93eb835b528b734eef3d79912ed927e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.48.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.48.4_e4b022b0d76e8bb462182ea9aa150657940948d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_39cbaa1e93d72e35d8a253104ec589d0e680cd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_efcba2adf5c197f383553cde84cb450012b50624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_83676807229e344ee5d98b2e8f5ee90735dbc5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_d59bfce13e877da843c0afaeec8664bca9309d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_cf7e06f6555eee155c1a7b456fdf1efdb0ed629e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_244e32e93e4164860f8eacd512365f91fdddac0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_80d1f1b50e0ef6892ca2c358fda98a773e7d5ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.48.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_d5ea1bb4594d2382db0669872d6386d01d9c2761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1cb67a1a5ff343a7ddc6cefec4d0194257c780d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_4408bc1b38c8ce6d4d98f5b26de294dc2245b8ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_0169382f78f78cdcb30d2b4caf72cdf4fc2dca2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_443cdc92a232fb32c58a2d184278d75ae5170deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ed056cf491007105d54d8d8bd5fe559657696c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_8071f4c9153dc7870472de6e150b34ef67614792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_bbbb2f53f35cfe630b882b70c9054308ebb40b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_2cbd4b5ced327267200d6d9afcb6c618e1fa4d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c1c491c8c965c69bbb67638b3921a3cae294e6c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\nodejs\ReactNative\ReactNativeMusicApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_5c050b87e764fe5a5481ff70f14d134f339162c2.jar" />
+    </item>
+
+</items>
