@@ -11,16 +11,21 @@ import {
     View
 } from 'react-native';
 import ArtistsList from './components/ArtistList';
+import {getArtists} from './apiClient/api-client'
 
 export default class ReactNativeMusicApp extends Component {
+
+    state = {
+        artists: []
+    }
+    componentDidMount(){
+        getArtists()
+        .then(data => this.setState({artists: data}))
+    }
+
     render() {
-        const artist = {
-            image: 'https://is2-ssl.mzstatic.com/image/thumb/Music/v4/26/5d/98/265d9849-40fb-34b6-3070-2c9447439164/source/313x0w.jpg',
-            name: 'Manolito y su trabuco',
-            likes: 200,
-            comments: 200
-        };
-        const artists = Array(500).fill(artist);
+
+        const artists = this.state.artists;
 
         return (
             /*
